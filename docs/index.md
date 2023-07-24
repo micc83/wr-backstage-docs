@@ -1,6 +1,14 @@
 # Backstage documentation
 
+## Summary
+
 ![image](https://github.com/micc83/wr-backstage-docs/assets/1750404/c7a804e6-d4f3-48c7-8768-85be10760e10)
+
+## Todo
+
+- [ ] Authentication and permissions
+- [ ] Select to easily switch between envs
+- [ ] Create new project from backstage is doable?
 
 ## How to integrate backstage with your project
 
