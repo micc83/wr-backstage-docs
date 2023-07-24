@@ -6,14 +6,16 @@
 
 ## Todo
 
-- [ ] Authentication and permissions
-- [ ] Select to easily switch between envs -> will change the host but keep the path of the current url
-- [ ] Create new project from backstage is doable (devops)?
+- [x] Authentication and permissions
+- [ ] Select to easily switch between envs -> will change the host but keep the path of the current url (other option use discovery)
+- [x] Create new project from backstage is doable? -> Doable via terraform (pull request from Backstage)
 - [x] Tech Documentation to migrate from clickup -> Ability to export to md files
 - [x] For techdocs might be cumbersome to have all documents inside `/docs` folder when readme.md, changelog.md, contributing.md are usually in the root. -> We can create symbolic links
 
 ## Links
 - https://blog.apihero.run/how-to-programmatically-create-a-commit-on-github#heading-3-create-a-commit
+
+## Next
 
 ## How to integrate backstage with your project
 
