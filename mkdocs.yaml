@@ -2,7 +2,6 @@ site_name: 'example-docs'
 
 nav:
   - Home: index.md
-  - Linked: linked-file.md
 
 plugins:
   - techdocs-core
