@@ -7,9 +7,10 @@
 ## Todo
 
 - [ ] Authentication and permissions
-- [ ] Select to easily switch between envs
-- [ ] Create new project from backstage is doable?
-- [ ] Where to put product documentation as md files + git are probably not the best for non-devs? Links to clickup/notion for now? In future we might implement a plugin for notion?
+- [ ] Select to easily switch between envs -> will change the host but keep the path of the current url
+- [ ] Create new project from backstage is doable (devops)?
+- [x] Tech Documentation to migrate from clickup -> Ability to export to md files
+- [ ] Where to put product documentation as md files + git are probably not the best for non-devs? Links to clickup/notion for now? In future we might implement a plugin for notion? Does production documentation even belongs here?
 
 ## How to integrate backstage with your project
 
