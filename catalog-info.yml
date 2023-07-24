@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: backstage
+  title: Backstage
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: dev-tools
+  system: infrastructure
+  owner: team-devops
