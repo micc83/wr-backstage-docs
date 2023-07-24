@@ -1,1 +1,1 @@
-linked-file.md
+../linked-file.md
