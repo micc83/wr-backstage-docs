@@ -9,7 +9,7 @@
 - [ ] Authentication and permissions
 - [ ] Select to easily switch between envs
 - [ ] Create new project from backstage is doable?
-- [ ] Where to put product documentation as md files + git are probably not the best for non-devs?
+- [ ] Where to put product documentation as md files + git are probably not the best for non-devs? Links to clickup/notion for now? In future we might implement a plugin for notion?
 
 ## How to integrate backstage with your project
 
