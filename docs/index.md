@@ -12,7 +12,7 @@
 - [x] Tech Documentation to migrate from clickup -> Ability to export to md files
 - [x] For techdocs might be cumbersome to have all documents inside `/docs` folder when readme.md, changelog.md, contributing.md are usually in the root. -> We can create symbolic links
 
-## Links
+## Links
 - https://blog.apihero.run/how-to-programmatically-create-a-commit-on-github#heading-3-create-a-commit
 
 ## How to integrate backstage with your project
