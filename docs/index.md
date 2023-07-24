@@ -9,6 +9,7 @@
 - [ ] Authentication and permissions
 - [ ] Select to easily switch between envs
 - [ ] Create new project from backstage is doable?
+- [ ] Where to put product documentation as md files + git are probably not the best for non-devs?
 
 ## How to integrate backstage with your project
 
