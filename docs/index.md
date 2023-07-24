@@ -11,6 +11,7 @@
 - [ ] Create new project from backstage is doable (devops)?
 - [x] Tech Documentation to migrate from clickup -> Ability to export to md files
 - [ ] Where to put product documentation as md files + git are probably not the best for non-devs? Links to clickup/notion for now? In future we might implement a plugin for notion? Does production documentation even belongs here?
+- [ ] Fot techdocs might be cumbersome to have all documents inside `/docs` folder when readme.md, changelog.md, contributing.md are usually in the root. We could create a symbolic link (it works?) or customize the plugin (see [here](https://github.com/backstage/backstage/issues/6057#issuecomment-1513240229))
 
 ## How to integrate backstage with your project
 
